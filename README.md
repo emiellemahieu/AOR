@@ -9,3 +9,5 @@ and (2) have Refinitiv Eikon (former Thomson Datastream) credentials at hand too
 are possible but way less convient as you will see in the file).
 
 Have fun with it!
+
+Comments, thoughts, feedback, remarks and improvements are welcome at emiel.lemahieu@hotmail.com
