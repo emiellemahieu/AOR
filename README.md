@@ -1,7 +1,7 @@
 # AOR
 CODE MASTER DISSERTATION:
 "The Art of Roughness: A fractal and neural network combination approach to market risk measurement" 
-Emiel Lemahieu, June 2019 (full text: see 'Main text.pdf)
+Emiel Lemahieu, June 2019 (full text: see 'Main text.pdf')
 
 The file AOR.ipynb is an IPython Jupyter notebook that was developed on Google's Colab platform.
 Highly recommended is to open it through Colab and (1) have Google account credentials at hand
