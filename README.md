@@ -10,4 +10,4 @@ are possible but way less convient as you will see in the file).
 
 Have fun with it!
 
-Comments, thoughts, feedback, remarks and improvements are welcome at emiel.lemahieu@hotmail.com
+Comments, thoughts, feedback, remarks and improvements are welcome at emiel.lemahieu@hotmail.com 
